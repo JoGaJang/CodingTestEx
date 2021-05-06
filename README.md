@@ -6,13 +6,13 @@
 또한, 코딩 실행을 메소드 단위로 하도록 Junit을 활용 했습니다.
 
 
-1. BFS
+1. BFS([코드](https://github.com/JoGaJang/CodingTestEx/blob/master/BFS.java))
    1) 그래프 탐색
    2) 미로탈출
    3) 백준_미로탈출
 
 
-2. DFS
+2. DFS([코드](https://github.com/JoGaJang/CodingTestEx/blob/master/DFS.java))
    1) 그래프 탐색
    2) 음료수얼려먹기
    3) 물담기_dfs
