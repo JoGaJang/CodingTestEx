@@ -9,7 +9,7 @@ import java.util.Set;
 public class 이진탐색 {
 
     @Test
-    void 부품찾기_Strema(){
+    void 부품찾기_Strem(){
 
         int[] n = {8, 3, 7, 9, 2};
         int[] m = {5, 7, 9};
