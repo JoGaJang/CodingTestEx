@@ -16,8 +16,15 @@
    1) 그래프 탐색
    2) 음료수얼려먹기
    3) 물담기_dfs
+ 
+ 
+3. 이진탐색([코드](https://github.com/JoGaJang/CodingTestEx/blob/master/이진탐색.java))
+   1) 부품찾기
+      - Stream방식(배열을 stream으로 filter를 거쳐 원하는 값 추출)
+      - Set방식(set에 리스트를 만들어 원하는 값 추출)
+   2) 떡볶이_떡_만들기
+   3) 특정수의_개수_구하기   
    
    
    
-   
-업데이트 중
+Loading....
