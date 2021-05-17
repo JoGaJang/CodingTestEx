@@ -24,7 +24,14 @@
       - Set방식(set에 리스트를 만들어 원하는 값 추출)
    2) 떡볶이_떡_만들기
    3) 특정수의_개수_구하기   
-   
-   
-   
+ 
+ 
+4. 다이나믹프로그래밍([코드](https://github.com/JoGaJang/CodingTestEx/blob/master/다이나믹프로그래밍.java))   
+    1) 다이나믹
+       - 하향식
+       - 상향식
+    2) 일로_만들기
+    3) 개미전사
+
+
 Loading....
